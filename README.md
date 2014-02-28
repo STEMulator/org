@@ -21,6 +21,6 @@ Our Mission:
 To accelerate the evolution of global technological innovation by facilitating an
 accessible, unrestricted and decentralized open-source collaborative resource for
 study, sharing, discovery and development of science, technology, engineering and
-math, (STEM). 
+mathematics – (STEM). 
 
 We want to empower technologists to build great things!
